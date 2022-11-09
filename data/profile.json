@@ -33,9 +33,9 @@
     "Inglês (intermediário)",
     "Espanhol (intermediário)"
   ],
-  "portfolio": [
+  "portfólio": [
     {
-      "name": "Criação de uma página de Portfolio",
+      "name": "Criação de uma página de Portfólio",
       "url": "https://wesleychristian.github.io/js-developer-portfolio/",
       "github": true
     },
