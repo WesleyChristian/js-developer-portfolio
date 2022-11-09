@@ -35,13 +35,13 @@
   ],
   "portfolio": [
     {
-      "name": "Criação de uma Pokedex",
-      "url": "https://wesleychristian.github.io/js-developer-pokedex/",
+      "name": "Criação de uma página de Portfolio",
+      "url": "https://wesleychristian.github.io/js-developer-portfolio/",
       "github": true
     },
     {
-      "name": "Criação de uma página de Portfolio",
-      "url": "https://github.com/WesleyChristian/js-developer-portfolio",
+      "name": "Criação de uma Pokedex",
+      "url": "https://wesleychristian.github.io/js-developer-pokedex/",
       "github": true
     }
   ],
