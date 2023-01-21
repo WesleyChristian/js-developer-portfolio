@@ -12,6 +12,10 @@
         "logo": "https://raw.githubusercontent.com/WesleyChristian/js-developer-portfolio/main/data/imgs/JavaScript.png"
       },
       {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/WesleyChristian/js-developer-portfolio/main/data/imgs/React.png"
+      },
+      {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/WesleyChristian/js-developer-portfolio/main/data/imgs/HTML5.png"
       },
